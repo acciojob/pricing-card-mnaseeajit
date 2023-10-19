@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+main{
+	width:300px;
+		padding : 10px;
+	background-color : #f1f1f1;
+	box-shadow : blurr;
+	margin : 50px;
+}
+#img{
+	width : 300px;
+}
+#btn{
+	background-color : #fe625a;
+	color : white;
+	border : none;
+	border-radius : 5px
+
+}
+h1{
+	font-size : 50px;
+	font-style : normal;
+	font-weight : 800;
+	margin-top : 0px;
+	margin-bottom : 0px;
+}
+p{
+	margin-top : 0px;
+	margin-bottom : 0px;
+		font-weight : 800
+}
+
